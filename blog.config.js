@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Phillip-dev',
-  author: 'Phillip',
-  email: 'kmg8609@gmail.com',
+  title: '桃仙随笔',
+  author: '桃仙CoolPeach',
+  email: 'dingqian.gdq@alibaba-inc.com',
   link: 'https://phillip.vercel.app',
-  description: 'PhillSoGood +_+',
+  description: '桃仙 +_+',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2022, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 50,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
