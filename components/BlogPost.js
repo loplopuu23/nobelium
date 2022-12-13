@@ -15,11 +15,6 @@ const BlogPost = ({ post }) => {
               {formatDate(post?.date?.start_date || post.createdTime, BLOG.lang)}
             </time>
           </header>
-          {/*<main>*/}
-          {/*  <p className="hidden md:block leading-8 text-gray-700 dark:text-gray-300">*/}
-          {/*    {post.summary}*/}
-          {/*  </p>*/}
-          {/*</main>*/}
         </article>
       </a>
     </Link>
