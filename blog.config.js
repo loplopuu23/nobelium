@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '桃仙随笔',
+  title: '桃仙CoolPeach Website',
   author: '桃仙CoolPeach',
   email: 'dingqian.gdq@alibaba-inc.com',
   link: 'https://phillip.vercel.app',
